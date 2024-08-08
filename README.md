@@ -19,8 +19,5 @@ El **Encriptador de Texto** es una aplicación web sencilla que permite encripta
 - **CSS**: Diseño y estilos responsivos.
 - **JavaScript**: Lógica de encriptación y desencriptación.
 
-## Instalación
-
-Para ejecutar este proyecto localmente, sigue los siguientes pasos:
 
 
